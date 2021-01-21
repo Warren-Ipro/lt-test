@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Automated Basics"
+  },
+  {
+    "name": "Leads Per Month",
+    "starter": "3000",
+    "pro": "5000",
+    "business": "15,000"
+  },
+  {
+    "name": "Real-Time Synchronization",
+    "starter": "No Delay",
+    "pro": "No Delay",
+    "business": "No Delay"
+  },
+  {
+    "name": "Facebook & Google Lead Form Integration",
+    "starter": "true",
+    "pro": "true",
+    "business": "true"
+  },
+  {
+    "name": "Widget Form Integration",
+    "starter": "true",
+    "pro": "true",
+    "business": "true"
+  },
+  {
+    "name": "Real-Time Analytics",
+    "starter": "true",
+    "pro": "true",
+    "business": "true"
+  },
+  {
+    "name": "Lead Management"
+  },
+  {
+    "name": "Built-in Lead Manager",
+    "starter": "true",
+    "pro": "true",
+    "business": "true"
+  },
+  {
+    "name": "Lead Mapping",
+    "starter": "true",
+    "pro": "true",
+    "business": "true"
+  },
+  {
+    "name": "Lead Tagging",
+    "starter": "true",
+    "pro": "true",
+    "business": "true"
+  },
+  {
+    "name": "Instant Lead Notification",
+    "starter": "Email Only",
+    "pro": "Email & SMS",
+    "business": "Email & SMS"
+  },
+  {
+    "name": "Automated Messages",
+    "starter": "Email Only",
+    "pro": "Email & SMS",
+    "business": "Email & SMS"
+  },
+  {
+    "name": "Lead Export",
+    "starter": "true",
+    "pro": "true",
+    "business": "true"
+  },
+  {
+    "name": "LeadsBot Notification",
+    "starter": "true",
+    "pro": "true",
+    "business": "true"
+  },
+  {
+    "name": "Lead Scoring",
+    "starter": "false",
+    "pro": "true",
+    "business": "true"
+  },
+  {
+    "name": "Communications"
+  },
+  {
+    "name": "In-App Email Messaging",
+    "starter": "true",
+    "pro": "true",
+    "business": "true"
+  },
+  {
+    "name": "In-App SMS Messaging",
+    "starter": "false",
+    "pro": "true",
+    "business": "true"
+  },
+  {
+    "name": "Team Collaboration"
+  },
+  {
+    "name": "Included User Accounts",
+    "starter": "false",
+    "pro": "false",
+    "business": "2"
+  },
+  {
+    "name": "Additional User Accounts",
+    "starter": "false",
+    "pro": "false",
+    "business": "Unlimited"
+  },
+  {
+    "name": "Lead Distribution",
+    "starter": "false",
+    "pro": "false",
+    "business": "true"
+  }
+]

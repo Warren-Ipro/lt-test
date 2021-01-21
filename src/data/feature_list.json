@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Built-In Leads Manager",
+    "description": "Don’t have a CRM? Start conversations and track all of your lead information in one place for an effective close"
+  },
+  {
+    "title": "Real-Time Lead Synchronization",
+    "description": "Close the time gap and have your targeted leads automatically transfer to over 25+ CRMs and email service providers of choice as soon as they enter your sales funnel."
+  },
+  {
+    "title": "Personal Assistant - LeadsBot",
+    "description": "Need an assistant to keep track of your account activities? The LeadsBot reminds you of negative balance, duplicate leads, and more.",
+    "image": "./images/feature/icon_robot.png"
+  },
+  {
+    "title": "Automated Lead Distribution",
+    "description": "Allocate leads evenly among your sales team or assign more leads to your best salesperson to increase sales opportunities.",
+    "image": "./images/feature/icon_filter.png"
+  },
+  {
+    "title": "Team Accounts",
+    "description": "Have your entire sales team on LeadsTunnel to manage more volume of qualified leads and close more sales! ",
+    "image": "./images/feature/icon_people.png"
+  },
+  {
+    "title": "Template Manager",
+    "description": "Easily create and manage your email and SMS messages to eliminate low-value, repetitive tasks from your day!",
+    "image": "./images/feature/icon_template.png"
+  },
+  {
+    "title": "Automatic Lead Scoring",
+    "description": "Know exactly who your hottest leads are to prioritize your follow-up strategy and maximize your time for value-adding results."
+  },
+  {
+    "title": "Segment By Lead Tagging",
+    "description": "Organize and segment your leads by tags so you know the status of each lead or whichever way you want to identify them for increased efficiency."
+  },
+  {
+    "title": "Instant Lead Notifications",
+    "description": "Get alerted through email and SMS the moment you receive a new lead to cut down the lead response time and increase your closing rate!"
+  },
+  {
+    "title": "Automated Messages",
+    "description": "Be the first to engage your qualified leads with an automatic email and SMS the moment they come in contact with you even when your business is offline."
+  },
+  {
+    "title": "In-App Messaging",
+    "description": "Create conversations with your leads directly within LeadsTunnel via our in-app email and SMS messaging! Have the whole conversation logged to assist closing or use it for sales training."
+  },
+  {
+    "title": "Lead Export",
+    "description": "Whether you want to do segmentation or add leads to another platform, simply export your leads by date, campaign, lead score and so much more in a user-friendly .csv file."
+  },
+  {
+    "title": "Facebook Integration",
+    "description": "Target your prospects where they are! Use Facebook Lead Ad to collect large volumes of targeted leads natively on the platform for cost-effective results!",
+    "image": "./images/feature/icon_facebook.png",
+    "imgText": "Facebook Lead Ads"
+  },
+  {
+    "title": "Google Integration",
+    "description": "Got an offer for people who are hungry for them? Use Google Lead Ad to target hyperactive buyers and generate highly-qualified leads for increased sales!",
+    "image": "./images/feature/icon_google.png",
+    "imgText": "Google Lead Form"
+  },
+  {
+    "title": "Web Form Integration",
+    "description": "Landing pages are still an effective way of generating leads. Embed a web form on any page you want and automate the entire process!",
+    "image": "./images/feature/icon_webform.png",
+    "imgText": "Web Form"
+  },
+  {
+    "title": "Widget Web Form",
+    "description": "Don’t forget your website can be a lead generator! Embed a widget form on your website to promote an offer and get your visitors’ contact information.",
+    "image": "./images/feature/icon_widget.png",
+    "imgText": "Widget Lead Form"
+  },
+  {
+    "title": "Multi-Channel Integration",
+    "description": "With over 25+ integrations of the most popular CRMs and email service providers, you can transfer your leads to multiple touchpoints to further indoctrinate your leads for close."
+  }
+]

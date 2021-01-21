@@ -1,0 +1,97 @@
+[
+  {
+    "icon": "./images/plans/graphic-starter.png",
+    "name": "Starter",
+    "price": {
+      "monthly": "$27 USD",
+      "yearly": "$270 USD"
+    },
+    "desc": "Start with the basics",
+    "button": {
+      "text": "Try For Free",
+      "path": {
+        "monthly": "https://app.leadstunnel.net/users/sign_up?plan=starter&option=monthly",
+        "yearly": "https://app.leadstunnel.net/users/sign_up?plan=starter&option=yearly"
+      }
+    },
+    "caps": [
+      "3000 Leads Per Month"
+    ],
+    "features": {
+      "text": "Features",
+      "list": [
+        "Real-time Synchronization",
+        "Unlimited Contacts",
+        "Unlimited Email Service / CRM Integrations",
+        "Facebook & Google Lead Form Integration",
+        "Widget Form Integration",
+        "Email Lead Notification",
+        "Built-In Lead Manager",
+        "Automated Email Follow-Up",
+        "In-App Email Messaging",
+        "Lead Data-Mapping",
+        "Lead Tagging",
+        "Real-Time Analytics",
+        "Lead Export",
+        "LeadsBot Notification"
+      ]
+    }
+  },
+  {
+    "icon": "./images/plans/graphic-pro.png",
+    "name": "Pro",
+    "price": {
+      "monthly": "$49 USD",
+      "yearly": "$490 USD"
+    },
+    "desc": "Advanced tools for growth",
+    "button": {
+      "text": "Get Started",
+      "path": {
+        "monthly": "https://app.leadstunnel.net/users/sign_up?plan=pro&option=monthly",
+        "yearly": "https://app.leadstunnel.net/users/sign_up?plan=pro&option=yearly"
+      }
+    },
+    "caps": [
+      "5000 Leads Per Month",
+      "$5 SMS Credits Per Month"
+    ],
+    "features": {
+      "text": "Everything In Starter Plus...",
+      "list": [
+        "SMS Lead Notification",
+        "Automated SMS Follow-Up",
+        "In-App SMS Messaging",
+        "Lead Scoring"
+      ]
+    }
+  },
+  {
+    "icon": "./images/plans/graphic-business.png",
+    "name": "Business",
+    "price": {
+      "monthly": "$97 USD",
+      "yearly": "$970 USD"
+    },
+    "desc": "Scale with a team",
+    "button": {
+      "text": "Get Started",
+      "path": {
+        "monthly": "https://app.leadstunnel.net/users/sign_up?plan=business&option=monthly",
+        "yearly": "https://app.leadstunnel.net/users/sign_up?plan=business&option=yearly"
+      }
+    },
+    "caps": [
+      "15,000 Leads Per Month",
+      "$10 SMS Per Month"
+    ],
+    "features": {
+      "text":"Everything In Pro Plus...",
+      "list": [
+        "Included 2 User Accounts",
+        "Unlimited User Accounts",
+        "Lead Distribution"
+      ]
+    }
+  }
+]

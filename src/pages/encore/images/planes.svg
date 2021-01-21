@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="2047px" height="585px" viewBox="0 0 2047 585" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>Group 8</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-8" transform="translate(1.000000, 1.000000)">
+            <path d="M0,0 C113.151807,70 44.8337349,140 113.151807,161 C181.46988,182 229.506024,142 305.296386,244 C355.823293,312 401.724498,304.666667 443,222" id="Path-2" stroke="#4A90E2" stroke-width="2" stroke-dasharray="5,5"></path>
+            <path d="M1681.11719,188.832031 C1787.11719,258.832031 1723.11719,328.832031 1787.11719,349.832031 C1851.11719,370.832031 1896.11719,330.832031 1967.11719,432.832031 C2014.45052,500.832031 2057.45052,493.498698 2096.11719,410.832031" id="Path-2-Copy" stroke="#4A90E2" stroke-width="2" stroke-dasharray="5,5" transform="translate(1888.617188, 333.849730) scale(-1, 1) rotate(-87.000000) translate(-1888.617188, -333.849730) "></path>
+            <g id="paper-planes-copy-2" transform="translate(1718.000000, 36.000000)" fill-rule="nonzero">
+                <g id="paper-planes">
+                    <g id="paper-plane" transform="translate(75.484384, 74.193676) rotate(-43.000000) translate(-75.484384, -74.193676) translate(12.984384, 31.693676)">
+                        <polygon id="Path-3" fill="#DFDFDF" transform="translate(76.029629, 53.179389) rotate(-22.000000) translate(-76.029629, -53.179389) " points="121.436503 65.4271342 32.7697351 62.566925 30.6227544 40.9316446"></polygon>
+                        <polygon id="Triangle" fill="#F5F6F6" transform="translate(62.777749, 50.501689) rotate(83.000000) translate(-62.777749, -50.501689) " points="67.1285837 -9.35470522 82.4180438 110.358083 66.9720846 84.7051963 43.1374532 97.9514944"></polygon>
+                        <polygon id="Path-4" fill="#3068F4" transform="translate(68.003543, 42.158097) rotate(-22.000000) translate(-68.003543, -42.158097) " points="19.2836607 16.6849635 25.9096772 43.1357416 116.723426 67.6312313"></polygon>
+                    </g>
+                </g>
+            </g>
+            <g id="paper-planes-copy" transform="translate(395.000000, 148.000000)" fill-rule="nonzero">
+                <g id="paper-planes">
+                    <g id="paper-plane" transform="translate(57.157383, 56.460724) rotate(-43.000000) translate(-57.157383, -56.460724) translate(10.157383, 23.960724)">
+                        <polygon id="Path-3" fill="#DFDFDF" transform="translate(56.751134, 40.791191) rotate(-22.000000) translate(-56.751134, -40.791191) " points="91.0156497 49.998274 24.0624733 48.0123068 22.4866174 31.5841079"></polygon>
+                        <polygon id="Triangle" fill="#F5F6F6" transform="translate(46.750934, 38.795184) rotate(83.000000) translate(-46.750934, -38.795184) " points="49.9757135 -6.36717224 61.6878535 83.9575408 49.9256135 64.5932222 31.8140135 74.5690163"></polygon>
+                        <polygon id="Path-4" fill="#3068F4" transform="translate(50.696830, 32.410790) rotate(-22.000000) translate(-50.696830, -32.410790) " points="13.9582142 13.1655517 18.9064128 33.241862 87.4354451 51.6560281"></polygon>
+                    </g>
+                </g>
+            </g>
+            <path d="M0,487 C41.8891566,510.169586 16.5975904,533.339171 41.8891566,540.290047 C67.1807229,547.240923 84.9638554,534.001159 113.021687,567.762556 C131.726908,590.270153 148.719679,587.842863 164,560.480686" id="Path-2-Copy-3" stroke="#4A90E2" stroke-width="2" stroke-dasharray="5,5" transform="translate(82.000000, 535.000000) scale(-1, 1) translate(-82.000000, -535.000000) "></path>
+            <g id="paper-planes-copy-5" transform="translate(76.000000, 382.000000)" fill-rule="nonzero">
+                <g id="paper-planes">
+                    <g id="paper-plane" transform="translate(81.191292, 79.802907) rotate(-43.000000) translate(-81.191292, -79.802907) translate(13.691292, 33.802907)">
+                        <polygon id="Path-3" fill="#DFDFDF" transform="translate(81.882743, 56.434573) rotate(-22.000000) translate(-81.882743, -56.434573) " points="131.471644 70.6253246 35.663825 63.5103432 32.2938425 42.2438214"></polygon>
+                        <polygon id="Triangle" fill="#F5F6F6" transform="translate(67.414714, 52.940302) rotate(83.000000) translate(-67.414714, -52.940302) " points="73.5186627 -12.5660721 86.1746761 118.446677 71.7733277 90.5787215 48.6547525 105.50823"></polygon>
+                        <polygon id="Path-4" fill="#3068F4" transform="translate(73.064964, 45.871205) rotate(-22.000000) translate(-73.064964, -45.871205) " points="19.2574673 18.5830698 27.6946585 44.7778365 126.87246 73.1593398"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

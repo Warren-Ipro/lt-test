@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="355px" height="241px" viewBox="0 0 355 241" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>email-webinar</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="67.9808384%" y1="69.2992864%" x2="32.0519754%" y2="30.8024335%" id="linearGradient-1">
+            <stop stop-color="#808080" stop-opacity="0.25" offset="0%"></stop>
+            <stop stop-color="#808080" stop-opacity="0.12" offset="54%"></stop>
+            <stop stop-color="#808080" stop-opacity="0.1" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="56.9933788%" y1="69.9364168%" x2="43.1002548%" y2="30.0461773%" id="linearGradient-2">
+            <stop stop-color="#808080" stop-opacity="0.25" offset="0%"></stop>
+            <stop stop-color="#808080" stop-opacity="0.12" offset="54%"></stop>
+            <stop stop-color="#808080" stop-opacity="0.1" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="32.6656171%" y1="69.3684718%" x2="67.3119939%" y2="30.6846354%" id="linearGradient-3">
+            <stop stop-color="#808080" stop-opacity="0.25" offset="0%"></stop>
+            <stop stop-color="#808080" stop-opacity="0.12" offset="54%"></stop>
+            <stop stop-color="#808080" stop-opacity="0.1" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="69.3283075%" y1="68.3251751%" x2="30.7582718%" y2="31.6859365%" id="linearGradient-4">
+            <stop stop-color="#808080" stop-opacity="0.25" offset="0%"></stop>
+            <stop stop-color="#808080" stop-opacity="0.12" offset="54%"></stop>
+            <stop stop-color="#808080" stop-opacity="0.1" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="51.3680036%" y1="51.463617%" x2="83.4886012%" y2="85.953617%" id="linearGradient-5">
+            <stop stop-color="#808080" stop-opacity="0.25" offset="0%"></stop>
+            <stop stop-color="#808080" stop-opacity="0.12" offset="54%"></stop>
+            <stop stop-color="#808080" stop-opacity="0.1" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="51.9655556%" y1="48.5517037%" x2="18.6655556%" y2="73.0754815%" id="linearGradient-6">
+            <stop stop-color="#808080" stop-opacity="0.25" offset="0%"></stop>
+            <stop stop-color="#808080" stop-opacity="0.12" offset="54%"></stop>
+            <stop stop-color="#808080" stop-opacity="0.1" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="47.5609091%" y1="47.9834711%" x2="82.0609091%" y2="76.5289256%" id="linearGradient-7">
+            <stop stop-color="#808080" stop-opacity="0.25" offset="0%"></stop>
+            <stop stop-color="#808080" stop-opacity="0.12" offset="54%"></stop>
+            <stop stop-color="#808080" stop-opacity="0.1" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="57.3527273%" y1="47.3501843%" x2="67.5927273%" y2="53.100938%" id="linearGradient-8">
+            <stop stop-color="#808080" stop-opacity="0.25" offset="0%"></stop>
+            <stop stop-color="#808080" stop-opacity="0.12" offset="54%"></stop>
+            <stop stop-color="#808080" stop-opacity="0.1" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="45.2791304%" y1="46.2012996%" x2="78.9191304%" y2="73.3070274%" id="linearGradient-9">
+            <stop stop-color="#808080" stop-opacity="0.25" offset="0%"></stop>
+            <stop stop-color="#808080" stop-opacity="0.12" offset="54%"></stop>
+            <stop stop-color="#808080" stop-opacity="0.1" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="57.0495652%" y1="46.561146%" x2="67.3995652%" y2="53.2660609%" id="linearGradient-10">
+            <stop stop-color="#808080" stop-opacity="0.25" offset="0%"></stop>
+            <stop stop-color="#808080" stop-opacity="0.12" offset="54%"></stop>
+            <stop stop-color="#808080" stop-opacity="0.1" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="email-webinar">
+            <path d="M206.3,42.4 C183.5,41.6 161.9,34.6 141.2,26.9 C120.5,19.2 99.9,10.8 77.7,6.7 C63.4,4.1 47.1,3.7 35.6,11 C24.5,18 20.9,30.2 19,41.5 C17.5,50 16.7,58.9 20.7,66.9 C23.5,72.4 28.3,77 31.7,82.3 C43.5,100.7 35.2,123.4 22.4,141.3 C16.4,149.7 9.5,157.8 4.9,166.7 C0.3,175.7 -1.8,185.9 2.2,195.1 C6.2,204.2 15.7,211 26.1,215.7 C47.1,225.4 71.8,228.2 95.9,229.8 C149.3,233.3 203,231.8 256.5,230.3 C276.3,229.7 296.2,229.2 315.7,226.3 C326.5,224.7 337.7,222.1 345.5,215.9 C355.5,208 357.9,194.6 351.3,184.7 C340,168 309,163.9 301.2,146 C296.9,136.2 301.3,125.2 307.6,116.1 C321,96.6 343.6,79.4 344.8,57.1 C345.6,41.8 334.8,26.4 318,19.1 C300.4,11.5 276.1,12.4 263.1,25 C249.8,38.1 226.3,43.1 206.3,42.4 Z" id="Path" fill="#639CFF" fill-rule="nonzero" opacity="0.1"></path>
+            <polygon id="Path" fill="#D0D5D4" fill-rule="nonzero" points="206 241 151 240.3 151.2 238.9 153.8 216 202.1 216 205.7 238.9 205.9 240.7"></polygon>
+            <polygon id="Path" fill="#000000" fill-rule="nonzero" opacity="0.1" points="205 241 178 241 151 240.6 151.2 239 204.7 239"></polygon>
+            <rect id="Rectangle" fill="#D0D5D4" fill-rule="nonzero" x="142" y="239" width="73" height="2"></rect>
+            <path d="M284,77.6 C284,76.4 283.5,75.2 282.7,74.4 C281.9,73.6 280.7,73.1 279.5,73.1 L76.5,73.1 C74,73 72,75.1 72,77.6 L72,77.6 L72,200 L284,200 L284,77.6 Z" id="Path" fill="#404353" fill-rule="nonzero"></path>
+            <path d="M72,199 L72,212.7 C72,215.1 74,217 76.6,217 L279.5,217 C280.7,217 281.9,216.5 282.7,215.7 C283.5,214.9 284,213.8 284,212.6 L284,199 L72,199 Z" id="Path" fill="#D0D5D4" fill-rule="nonzero"></path>
+            <rect id="Rectangle" fill="#639CFF" fill-rule="nonzero" opacity="0.1" x="81" y="79" width="195" height="110"></rect>
+            <path d="M179,212 C180.5,212 182,211.3 182.9,210.1 L182.9,210.1 C183,209.9 183.2,209.7 183.3,209.5 L180.6,209.1 L183.6,209.1 C184.2,207.9 184.2,206.4 183.7,205.2 L179.7,207.3 L183.4,204.6 C182.5,203 180.9,202.1 179.1,202.1 C177.3,202.1 175.6,203.1 174.8,204.6 C173.9,206.2 173.9,208.1 174.9,209.6 C175,209.8 175.1,210 175.3,210.2 L175.3,210.2 C176,211.3 177.5,212 179,212 Z" id="Path" fill="#639CFF" fill-rule="nonzero"></path>
+            <polygon id="Path" fill="#000000" fill-rule="nonzero" opacity="0.1" points="184 217 206 239 202.6 217"></polygon>
+            <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" x="81" y="79" width="195" height="7"></rect>
+            <path d="M81.5,81 L86.4,81 C86.7,81 86.9,81.2 86.9,81.5 L86.9,84.4 C86.9,84.7 86.7,84.9 86.4,84.9 L81.5,84.9 C81.2,84.9 81,84.7 81,84.4 L81,81.5 C81,81.2 81.2,81 81.5,81 Z" id="Path" fill="#639CFF" fill-rule="nonzero"></path>
+            <path d="M148.4,81 L206.6,81 C206.8,81 207,81.2 207,81.4 L207,84.6 C207,84.8 206.8,85 206.6,85 L148.4,85 C148.2,85 148,84.8 148,84.6 L148,81.4 C148,81.2 148.2,81 148.4,81 Z" id="Path" fill="#639CFF" fill-rule="nonzero" opacity="0.3"></path>
+            <path d="M206.1,83.9 L206,83.9 L205.9,83.9 C206.1,83.7 206.2,83.4 206.2,83.2 C206.2,82.6 205.7,82.1 205.1,82.1 C204.5,82.1 204,82.6 204,83.2 C204,83.8 204.5,84.3 205.1,84.3 C205.4,84.3 205.6,84.2 205.8,84 L205.9,84 L205.9,84.2 L206.8,85.1 L207.1,84.8 L206.1,83.9 Z M205.1,83.9 C204.7,83.9 204.3,83.6 204.3,83.1 C204.3,82.6 204.6,82.3 205.1,82.3 C205.6,82.3 205.9,82.6 205.9,83.1 L205.9,83.1 C205.9,83.5 205.5,83.9 205.1,83.9 Z" id="Shape" fill="#404353" fill-rule="nonzero"></path>
+            <circle id="Oval" fill="#639CFF" fill-rule="nonzero" cx="273" cy="83" r="2"></circle>
+            <path d="M87.1,93 L272,93 C272.6,93 273,93.4 273.1,93.9 L273.1,192 C273.1,192.6 272.6,193 272,192.9 L87.1,192.9 C86.5,192.9 86.1,192.5 86,192 L86,94 C86,93.4 86.5,93 87.1,93 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero"></path>
+            <rect id="Rectangle" fill="#9CA6B5" fill-rule="nonzero" opacity="0.1" x="92" y="113" width="45" height="2"></rect>
+            <rect id="Rectangle" fill="#9CA6B5" fill-rule="nonzero" opacity="0.1" x="97" y="101" width="4" height="12"></rect>
+            <rect id="Rectangle" fill="#9CA6B5" fill-rule="nonzero" opacity="0.1" x="103" y="101" width="4" height="12"></rect>
+            <rect id="Rectangle" fill="#9CA6B5" fill-rule="nonzero" opacity="0.1" x="109" y="101" width="4" height="12"></rect>
+            <rect id="Rectangle" fill="#9CA6B5" fill-rule="nonzero" opacity="0.1" x="116" y="101" width="4" height="12"></rect>
+            <rect id="Rectangle" fill="#9CA6B5" fill-rule="nonzero" opacity="0.1" x="123" y="101" width="4" height="12"></rect>
+            <rect id="Rectangle" fill="#9CA6B5" fill-rule="nonzero" opacity="0.1" x="128" y="101" width="4" height="12"></rect>
+            <rect id="Rectangle" fill="#9CA6B5" fill-rule="nonzero" opacity="0.1" x="97" y="103" width="4" height="1"></rect>
+            <rect id="Rectangle" fill="#9CA6B5" fill-rule="nonzero" opacity="0.1" x="103" y="103" width="4" height="1"></rect>
+            <rect id="Rectangle" fill="#9CA6B5" fill-rule="nonzero" opacity="0.1" x="109" y="103" width="4" height="1"></rect>
+            <rect id="Rectangle" fill="#9CA6B5" fill-rule="nonzero" opacity="0.1" x="116" y="103" width="4" height="1"></rect>
+            <rect id="Rectangle" fill="#9CA6B5" fill-rule="nonzero" opacity="0.1" x="123" y="103" width="4" height="1"></rect>
+            <rect id="Rectangle" fill="#9CA6B5" fill-rule="nonzero" opacity="0.1" x="128" y="103" width="4" height="1"></rect>
+            <rect id="Rectangle" fill="#9CA6B5" fill-rule="nonzero" opacity="0.1" x="97" y="109" width="4" height="1"></rect>
+            <rect id="Rectangle" fill="#9CA6B5" fill-rule="nonzero" opacity="0.1" x="103" y="109" width="4" height="1"></rect>
+            <rect id="Rectangle" fill="#9CA6B5" fill-rule="nonzero" opacity="0.1" x="109" y="109" width="4" height="1"></rect>
+            <rect id="Rectangle" fill="#9CA6B5" fill-rule="nonzero" opacity="0.1" x="116" y="109" width="4" height="1"></rect>
+            <rect id="Rectangle" fill="#9CA6B5" fill-rule="nonzero" opacity="0.1" x="123" y="109" width="4" height="1"></rect>
+            <rect id="Rectangle" fill="#9CA6B5" fill-rule="nonzero" opacity="0.1" x="128" y="109" width="4" height="1"></rect>
+            <rect id="Rectangle" fill="#9CA6B5" fill-rule="nonzero" opacity="0.1" x="223" y="116" width="45" height="2"></rect>
+            <rect id="Rectangle" fill="#9CA6B5" fill-rule="nonzero" opacity="0.1" x="228" y="104" width="4" height="12"></rect>
+            <rect id="Rectangle" fill="#9CA6B5" fill-rule="nonzero" opacity="0.1" x="234" y="104" width="4" height="12"></rect>
+            <rect id="Rectangle" fill="#9CA6B5" fill-rule="nonzero" opacity="0.1" x="240" y="104" width="4" height="12"></rect>
+            <rect id="Rectangle" fill="#9CA6B5" fill-rule="nonzero" opacity="0.1" x="246" y="104" width="4" height="12"></rect>
+            <rect id="Rectangle" fill="#9CA6B5" fill-rule="nonzero" opacity="0.1" x="252" y="104" width="4" height="12"></rect>
+            <rect id="Rectangle" fill="#9CA6B5" fill-rule="nonzero" opacity="0.1" x="258" y="104" width="4" height="12"></rect>
+            <rect id="Rectangle" fill="#9CA6B5" fill-rule="nonzero" opacity="0.1" x="228" y="106" width="4" height="1"></rect>
+            <rect id="Rectangle" fill="#9CA6B5" fill-rule="nonzero" opacity="0.1" x="234" y="106" width="4" height="1"></rect>
+            <rect id="Rectangle" fill="#9CA6B5" fill-rule="nonzero" opacity="0.1" x="240" y="106" width="4" height="1"></rect>
+            <rect id="Rectangle" fill="#9CA6B5" fill-rule="nonzero" opacity="0.1" x="246" y="106" width="4" height="1"></rect>
+            <rect id="Rectangle" fill="#9CA6B5" fill-rule="nonzero" opacity="0.1" x="252" y="106" width="4" height="1"></rect>
+            <rect id="Rectangle" fill="#9CA6B5" fill-rule="nonzero" opacity="0.1" x="258" y="106" width="4" height="1"></rect>
+            <rect id="Rectangle" fill="#9CA6B5" fill-rule="nonzero" opacity="0.1" x="228" y="112" width="4" height="1"></rect>
+            <rect id="Rectangle" fill="#9CA6B5" fill-rule="nonzero" opacity="0.1" x="234" y="112" width="4" height="1"></rect>
+            <rect id="Rectangle" fill="#9CA6B5" fill-rule="nonzero" opacity="0.1" x="240" y="112" width="4" height="1"></rect>
+            <rect id="Rectangle" fill="#9CA6B5" fill-rule="nonzero" opacity="0.1" x="246" y="112" width="4" height="1"></rect>
+            <rect id="Rectangle" fill="#9CA6B5" fill-rule="nonzero" opacity="0.1" x="252" y="112" width="4" height="1"></rect>
+            <rect id="Rectangle" fill="#9CA6B5" fill-rule="nonzero" opacity="0.1" x="258" y="112" width="4" height="1"></rect>
+            <rect id="Rectangle" fill="#9CA6B5" fill-rule="nonzero" opacity="0.1" x="223" y="133" width="45" height="2"></rect>
+            <rect id="Rectangle" fill="#9CA6B5" fill-rule="nonzero" opacity="0.1" x="228" y="121" width="4" height="12"></rect>
+            <rect id="Rectangle" fill="#9CA6B5" fill-rule="nonzero" opacity="0.1" x="234" y="121" width="4" height="12"></rect>
+            <rect id="Rectangle" fill="#9CA6B5" fill-rule="nonzero" opacity="0.1" x="240" y="121" width="4" height="12"></rect>
+            <rect id="Rectangle" fill="#9CA6B5" fill-rule="nonzero" opacity="0.1" x="246" y="121" width="4" height="12"></rect>
+            <rect id="Rectangle" fill="#9CA6B5" fill-rule="nonzero" opacity="0.1" x="252" y="121" width="4" height="12"></rect>
+            <rect id="Rectangle" fill="#9CA6B5" fill-rule="nonzero" opacity="0.1" x="258" y="121" width="4" height="12"></rect>
+            <rect id="Rectangle" fill="#9CA6B5" fill-rule="nonzero" opacity="0.1" x="228" y="123" width="4" height="1"></rect>
+            <rect id="Rectangle" fill="#9CA6B5" fill-rule="nonzero" opacity="0.1" x="234" y="123" width="4" height="1"></rect>
+            <rect id="Rectangle" fill="#9CA6B5" fill-rule="nonzero" opacity="0.1" x="240" y="123" width="4" height="1"></rect>
+            <rect id="Rectangle" fill="#9CA6B5" fill-rule="nonzero" opacity="0.1" x="246" y="123" width="4" height="1"></rect>
+            <rect id="Rectangle" fill="#9CA6B5" fill-rule="nonzero" opacity="0.1" x="252" y="123" width="4" height="1"></rect>
+            <rect id="Rectangle" fill="#9CA6B5" fill-rule="nonzero" opacity="0.1" x="258" y="123" width="4" height="1"></rect>
+            <rect id="Rectangle" fill="#9CA6B5" fill-rule="nonzero" opacity="0.1" x="228" y="129" width="4" height="1"></rect>
+            <rect id="Rectangle" fill="#9CA6B5" fill-rule="nonzero" opacity="0.1" x="234" y="129" width="4" height="1"></rect>
+            <rect id="Rectangle" fill="#9CA6B5" fill-rule="nonzero" opacity="0.1" x="240" y="129" width="4" height="1"></rect>
+            <rect id="Rectangle" fill="#9CA6B5" fill-rule="nonzero" opacity="0.1" x="246" y="129" width="4" height="1"></rect>
+            <rect id="Rectangle" fill="#9CA6B5" fill-rule="nonzero" opacity="0.1" x="252" y="129" width="4" height="1"></rect>
+            <rect id="Rectangle" fill="#9CA6B5" fill-rule="nonzero" opacity="0.1" x="258" y="129" width="4" height="1"></rect>
+            <path d="M146,143.2 C146,145.8 145.1,148.3 143.4,150.3 C147.3,155 146.7,161.8 142.1,165.9 C137.5,170 130.4,170 125.8,165.9 C121.2,161.8 120.6,155 124.5,150.3 C123,148.3 146,141.9 146,143.2 Z" id="Path" fill="#A0ABBD" fill-rule="nonzero" opacity="0.1"></path>
+            <path d="M135.5,171.9 L135.5,171.9 L131.5,172 C131.5,172 131.5,171.9 131.6,171.9 C131.2,171.4 131.1,170.8 131.1,170.2 C131.1,169.8 131.2,169.4 131.3,169 L131.3,169 C131.5,169 131.8,169.1 132.1,169.1 C133,169.2 134,169.2 134.9,169.1 C135.2,169.1 135.5,169 135.7,169 L135.7,169 C136.2,170 136.1,171 135.5,171.9 L135.5,171.9 Z" id="Path" fill="#3D4656" fill-rule="nonzero" opacity="0.2"></path>
+            <path d="M124.6,135.9 C124.3,135.5 123.9,135 123.7,134.6 L130.3,133.6 L123.2,133.7 C121.8,130.8 121.7,127.5 123,124.5 L132.5,129.3 L123.7,123 C125.9,119.2 130.2,116.9 134.7,117.1 C139.2,117.3 143.2,119.9 145.1,123.9 C147,127.9 146.4,132.5 143.6,135.9 C144.1,136.6 144.6,137.3 145,138 L136.5,142.3 L145.6,139.3 C146.9,143 146.2,147.1 143.7,150.2 C147.6,155 147,161.8 142.4,165.9 C137.8,170 130.7,170 126.1,165.9 C121.5,161.8 121,154.9 124.8,150.2 C121.2,146 121.2,140.1 124.6,135.9 L124.6,135.9 Z" id="Path" fill="#A0ABBD" fill-rule="nonzero" opacity="0.1"></path>
+            <path d="M121.4,172 L99.9,172 C99.9,171.9 99.8,171.7 99.8,171.6 C99,169.2 99.1,166.5 100,164.2 C95.7,161.2 94,155.7 95.9,150.7 C95.5,150.4 95.1,150.1 94.7,149.7 L100.3,146.9 L93.9,148.9 C91.8,146.6 90.8,143.5 91,140.3 L101,142.1 L91.2,138.7 C92.6,132.6 98.6,128.8 104.7,130.2 C110.8,131.5 114.6,137.5 113.4,143.6 C113.3,144.2 113.1,144.8 112.9,145.3 C113.6,145.8 114.2,146.3 114.8,146.9 L108.3,153.3 L115.7,148 C118,151.1 118.5,155.2 117.1,158.8 C121.3,161.8 123,167.2 121.4,172 L121.4,172 Z" id="Path" fill="#A0ABBD" fill-rule="nonzero" opacity="0.1"></path>
+            <path d="M122.3,172 L99.7,172 C99.7,171.9 99.6,171.7 99.6,171.6 C98.8,169.1 98.9,166.5 99.9,164 C97.8,162.6 117.8,149.8 118.2,151 C119,153.5 118.9,156.2 117.9,158.6 C122.3,161.6 124.1,167.1 122.3,172 L122.3,172 Z" id="Path" fill="#A0ABBD" fill-rule="nonzero" opacity="0.1"></path>
+            <path d="M265.3,157.3 C264,159.5 261.9,161.2 259.4,162.1 C259.5,162.9 259.5,163.7 259.4,164.5 L250,164 L259.2,165.9 C258.6,168.6 257,171 254.7,172.7 L242,172.7 L242,173 L229,173 C229,172.9 229,172.8 229.1,172.7 C230.1,169.2 232.7,166.3 236.2,165 C235.5,159.8 238.6,154.8 243.6,152.9 C243.5,152.4 243.5,151.8 243.5,151.3 L249.6,153.6 L243.6,150.2 C244,147.1 245.6,144.2 248.2,142.4 L253.7,151.1 L249.6,141.5 C254.2,139 260,139.8 263.7,143.5 C267.4,147.2 268.1,152.8 265.3,157.3 L265.3,157.3 Z" id="Path" fill="#A0ABBD" fill-rule="nonzero" opacity="0.1"></path>
+            <path d="M257,169.2 C256.2,170.6 255.1,171.7 253.9,172.7 L241.1,172.7 L241.1,173 L228,173 C228,172.9 228,172.8 228.1,172.7 C229.1,169 231.7,166 235.3,164.7 C235.2,163.8 237.7,164 241.1,164.5 C247.7,165.6 257.4,168.4 257,169.2 Z" id="Path" fill="#A0ABBD" fill-rule="nonzero" opacity="0.1"></path>
+            <path d="M139,185.8 L139,178.2 C139,178.1 139.1,178 139.2,178 L140.1,178 C140.2,178 140.3,178.1 140.3,178.2 L140.3,178.2 L140.3,181.4 L144,178.2 C144.3,178 144.6,178 144.8,178.3 C144.9,178.4 144.9,178.5 144.9,178.6 L144.9,185.5 C144.9,185.7 144.8,185.8 144.7,185.9 C144.6,186 144.4,186.1 144.3,186.1 C144.2,186.1 144,186 143.9,186 L140.2,182.8 L140.2,185.9 C140.2,186 140.2,186 140.1,186.1 C140.1,186.1 140,186.2 139.9,186.2 L139,186.2 C139.1,186 139,185.9 139,185.8 Z" id="Path" fill="#404353" fill-rule="nonzero"></path>
+            <path d="M225,178.2 L225,185.8 C225,185.9 224.9,186 224.8,186 L223.9,186 C223.8,186 223.7,185.9 223.7,185.8 L223.7,185.8 L223.7,182.6 L220,185.8 C219.8,185.9 219.6,186 219.4,185.9 C219.2,185.8 219.1,185.6 219,185.4 L219,178.5 C219,178.3 219.1,178.2 219.2,178.1 C219.3,178 219.5,177.9 219.6,177.9 C219.7,177.9 219.9,178 220,178 L223.7,181.2 L223.7,178.1 C223.7,178 223.8,177.9 223.9,177.9 L224.8,177.9 C224.9,178 225,178.1 225,178.2 Z" id="Path" fill="#404353" fill-rule="nonzero"></path>
+            <path d="M179.6,186 L177.9,186 C177.4,186 177.1,185.6 177.1,185.2 L177.1,178.9 C177.1,178.7 177.2,178.5 177.3,178.3 C177.5,178.1 177.7,178.1 177.9,178.1 L179.6,178.1 C179.8,178.1 180,178.2 180.2,178.3 C180.4,178.5 180.4,178.7 180.4,178.9 L180.4,185.2 C180.4,185.4 180.3,185.6 180.2,185.8 C180,185.9 179.8,186 179.6,186 L179.6,186 Z M185,185.2 L185,178.9 C185,178.7 184.9,178.5 184.8,178.3 C184.6,178.1 184.4,178.1 184.2,178.1 L182.5,178.1 C182,178.1 181.7,178.5 181.7,178.9 L181.7,185.2 C181.7,185.7 182.1,186 182.5,186 L184.2,186 C184.6,186 185,185.6 185,185.2 L185,185.2 Z" id="Shape" fill="#404353" fill-rule="nonzero"></path>
+            <rect id="Rectangle" fill="#404353" fill-rule="nonzero" opacity="0.6" x="130" y="172" width="137" height="1"></rect>
+            <circle id="Oval" fill="#404353" fill-rule="nonzero" cx="161" cy="172" r="3"></circle>
+            <rect id="Rectangle" fill="#404353" fill-rule="nonzero" x="91" y="172" width="72" height="1"></rect>
+            <ellipse id="Oval" fill="#639CFF" fill-rule="nonzero" cx="292" cy="235.5" rx="24" ry="4.5"></ellipse>
+            <ellipse id="Oval" fill="#3D4656" fill-rule="nonzero" cx="291" cy="234.5" rx="3" ry="3.5"></ellipse>
+            <ellipse id="Oval" fill="#3D4656" fill-rule="nonzero" cx="291" cy="229.5" rx="3" ry="3.5"></ellipse>
+            <ellipse id="Oval" fill="#3D4656" fill-rule="nonzero" cx="291" cy="224.5" rx="3" ry="3.5"></ellipse>
+            <ellipse id="Oval" fill="#3D4656" fill-rule="nonzero" cx="291" cy="220.5" rx="3" ry="3.5"></ellipse>
+            <ellipse id="Oval" fill="#3D4656" fill-rule="nonzero" cx="291" cy="215.5" rx="3" ry="3.5"></ellipse>
+            <ellipse id="Oval" fill="#3D4656" fill-rule="nonzero" cx="291" cy="211.5" rx="3" ry="3.5"></ellipse>
+            <ellipse id="Oval" fill="#3D4656" fill-rule="nonzero" cx="291" cy="206.5" rx="3" ry="3.5"></ellipse>
+            <path d="M301.2,176.7 C301.6,176.2 301.9,175.7 302.2,175.2 L295.1,174 L302.8,174.1 C304.3,170.7 304.4,166.9 303,163.5 L292.7,169 L302.2,161.8 C298.6,155.4 290.6,153.2 284.4,156.9 C278.2,160.6 276.1,168.8 279.7,175.2 C280,175.8 280.4,176.3 280.7,176.8 C280.1,177.6 279.6,178.4 279.2,179.2 L288.5,184.2 L278.6,180.8 C277.2,185.1 278,189.8 280.7,193.4 C276.5,198.9 277.1,206.8 282.1,211.5 C287.1,216.2 294.7,216.2 299.7,211.5 C304.7,206.8 305.3,198.9 301.1,193.4 C304.9,188.4 304.9,181.6 301.2,176.7 L301.2,176.7 Z" id="Path" fill="#639CFF" fill-rule="nonzero"></path>
+            <path d="M278,184.2 C278,187.3 279,190.3 280.8,192.7 C276.6,198.3 277.2,206.5 282.2,211.3 C287.2,216.2 294.9,216.2 299.8,211.3 C304.8,206.4 305.4,198.3 301.2,192.7 C303,190.4 278,182.7 278,184.2 Z" id="Path" fill="#000000" fill-rule="nonzero" opacity="0.1"></path>
+            <polygon id="Path" fill="url(#linearGradient-1)" fill-rule="nonzero" points="28.4 137.8 72.4 97.8 97 124.8 53 164.8"></polygon>
+            <polygon id="Path" fill="url(#linearGradient-2)" fill-rule="nonzero" points="110.9 19.9 168.5 4.8 177.8 40.2 120.2 55.3"></polygon>
+            <g id="Group" transform="translate(289.000000, 60.000000) rotate(37.000000) translate(-289.000000, -60.000000) translate(255.000000, 32.000000)">
+                <polygon id="Path-Copy" fill="url(#linearGradient-2)" fill-rule="nonzero" points="0.9 19.9 58.5 4.8 67.8 40.2 10.2 55.3"></polygon>
+                <polygon id="Path-Copy-2" fill="#639CFF" fill-rule="nonzero" opacity="0.6" points="1 14.4 56 0 66 37.6 39.1 44.6 11 52"></polygon>
+                <polygon id="Path-Copy-3" fill="#639CFF" fill-rule="nonzero" opacity="0.42" points="66 38 34 26.3 56.2 0"></polygon>
+                <polygon id="Path-Copy-4" fill="#639CFF" fill-rule="nonzero" opacity="0.42" points="9.8 53 32 26.7 0 15"></polygon>
+                <polyline id="Path-Copy-5" stroke="#FFFFFF" opacity="0.41" points="11 52 33.5 27 66 38.1"></polyline>
+                <path d="M55,-1.77635684e-15 L33.8,27.3 C33.3,28 32.4,28.2 31.6,27.9 L4.61852778e-14,14.9 L55,-1.77635684e-15 Z" id="Path-Copy-6" fill="#1A2D42" fill-rule="nonzero" opacity="0.79"></path>
+                <path d="M55,0 L33.5,25.3 C33,25.9 32.1,26.1 31.3,25.9 L3.55271368e-15,14.4 L55,0 Z" id="Path-Copy-7" fill="#639CFF" fill-rule="nonzero" opacity="0.79"></path>
+            </g>
+            <polygon id="Path" fill="url(#linearGradient-3)" fill-rule="nonzero" points="172.4 52.9 196.3 25.2 241.4 64.1 217.5 91.7"></polygon>
+            <polygon id="Path" fill="url(#linearGradient-4)" fill-rule="nonzero" points="32.9 73.3 73.6 30 100.3 55 59.6 98.3"></polygon>
+            <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="25 70.4 67.8 23 100 52.6 79.1 75.7 57.2 100"></polygon>
+            <polygon id="Path" fill="#F5F5F5" fill-rule="nonzero" points="101 52.2 63 61 68.3 23"></polygon>
+            <polygon id="Path" fill="#F5F5F5" fill-rule="nonzero" points="56.7 99 62 61 24 69.8"></polygon>
+            <path d="M68,23 L64.9,61.6 C64.8,62.5 64.1,63.3 63.2,63.4 L24,70 L68,23 Z" id="Path" fill="url(#linearGradient-5)" fill-rule="nonzero"></path>
+            <path d="M68,23 L64.1,60.9 C64,61.8 63.3,62.6 62.4,62.7 L24,70 L68,23 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero"></path>
+            <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="199.9 20 245 59.7 218.1 91 196.1 71.6 173 51.3"></polygon>
+            <polygon id="Path" fill="#F5F5F5" fill-rule="nonzero" points="217.3 90 208 54 245 58.3"></polygon>
+            <polygon id="Path" fill="#F5F5F5" fill-rule="nonzero" points="171 50.7 208 55 198.7 19"></polygon>
+            <path d="M245,59 L208.7,57 C207.8,57 207.1,56.3 206.9,55.5 L200,20 L245,59 Z" id="Path" fill="url(#linearGradient-6)" fill-rule="nonzero"></path>
+            <path d="M245,59 L209.4,56.3 C208.5,56.2 207.8,55.6 207.6,54.8 L200,20 L245,59 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero"></path>
+            <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="23 132.9 66.7 93 94 123.1 72.7 142.6 50.3 163"></polygon>
+            <polygon id="Path" fill="#F5F5F5" fill-rule="nonzero" points="94 123.9 58 129 66.3 93"></polygon>
+            <polygon id="Path" fill="#F5F5F5" fill-rule="nonzero" points="50.7 164 59 128 23 133.1"></polygon>
+            <path d="M67,94 L60.9,129.6 C60.8,130.5 60,131.1 59.2,131.2 L23,134 L67,94 Z" id="Path" fill="url(#linearGradient-7)" fill-rule="nonzero"></path>
+            <path d="M67,94 L60.2,128.9 C60,129.7 59.3,130.4 58.5,130.5 L23,134 L67,94 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero"></path>
+            <polygon id="Path" fill="#639CFF" fill-rule="nonzero" opacity="0.1" points="74 76.8 168.4 53 184 113.1 90.8 139"></polygon>
+            <polygon id="Path" fill="#639CFF" fill-rule="nonzero" opacity="0.6" points="111 14.4 166 0 176 37.6 149.1 44.6 121 52"></polygon>
+            <polygon id="Path" fill="#639CFF" fill-rule="nonzero" opacity="0.42" points="176 38 144 26.3 166.2 0"></polygon>
+            <polygon id="Path" fill="#639CFF" fill-rule="nonzero" opacity="0.42" points="119.8 53 142 26.7 110 15"></polygon>
+            <path d="M165,0 L144,28.3 C143.5,29 142.6,29.2 141.8,28.9 L110,14.9 L165,0 Z" id="Path" fill="url(#linearGradient-8)" fill-rule="nonzero"></path>
+            <polyline id="Path" stroke="#FFFFFF" opacity="0.41" points="121 52 143.5 27 176 38.1"></polyline>
+            <path d="M165,0 L143.8,27.3 C143.3,28 142.4,28.2 141.6,27.9 L110,14.9 L165,0 Z" id="Path" fill="#1A2D42" fill-rule="nonzero" opacity="0.79"></path>
+            <path d="M165,0 L143.5,25.3 C143,25.9 142.1,26.1 141.3,25.9 L110,14.4 L165,0 Z" id="Path" fill="#639CFF" fill-rule="nonzero" opacity="0.79"></path>
+            <polygon id="Path" fill="#639CFF" fill-rule="nonzero" opacity="0.6" points="21 133.7 67.6 93 96 124.3 73.3 144.2 49.4 165"></polygon>
+            <polygon id="Path" fill="#639CFF" fill-rule="nonzero" opacity="0.42" points="96 124.2 58 129 67.2 92"></polygon>
+            <polygon id="Path" fill="#639CFF" fill-rule="nonzero" opacity="0.42" points="49.8 165 59 128 21 132.8"></polygon>
+            <path d="M67,93 L60.2,129.9 C60,130.8 59.3,131.5 58.4,131.5 L21,134 L67,93 Z" id="Path" fill="url(#linearGradient-9)" fill-rule="nonzero"></path>
+            <polyline id="Path" stroke="#FFFFFF" opacity="0.41" points="49 165 58 128.7 95 124"></polyline>
+            <path d="M67,93 L59.5,129.2 C59.3,130.1 58.6,130.7 57.7,130.8 L21,134 L67,93 Z" id="Path" fill="#1A2D42" fill-rule="nonzero" opacity="0.79"></path>
+            <path d="M67,93 L58.7,128.2 C58.5,129.1 57.8,129.7 56.9,129.8 L21,134 L67,93 Z" id="Path" fill="#639CFF" fill-rule="nonzero" opacity="0.79"></path>
+            <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="75 76.2 166.7 53 184 122.8 139.2 134.1 92.3 146"></polygon>
+            <polygon id="Path" fill="#F5F5F5" fill-rule="nonzero" points="184 123 129 99.6 166.6 53"></polygon>
+            <polygon id="Path" fill="#F5F5F5" fill-rule="nonzero" points="92.4 147 130 100.4 75 77"></polygon>
+            <path d="M167,53 L132.2,101.8 C131.4,103 129.9,103.4 128.6,102.7 L75,76 L167,53 Z" id="Path" fill="url(#linearGradient-10)" fill-rule="nonzero"></path>
+            <path d="M167,54 L131.8,100.8 C131,101.9 129.5,102.3 128.2,101.7 L75,76.8 L167,54 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero"></path>
+            <path d="M196.5,159 C205.9,153.9 211.5,143.9 210.9,133.2 C210.3,122.5 203.7,113.1 193.8,109.1 C184,105.1 172.7,107.1 164.9,114.4 M178.1,126.9 L178.1,122.2 L194.5,134.6 L190.7,137.2" id="Shape" stroke="#3D4656"></path>
+            <path d="M179.5,109 C164.3,109 152,121.3 152,136.5 C152,151.7 164.3,164 179.5,164 C194.7,164 207,151.7 207,136.5 L207,136.5 C207,121.3 194.7,109 179.5,109 Z M174,148.9 L174,124.1 L190.5,136.5 L174,148.9 Z" id="Shape" fill="#639CFF" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

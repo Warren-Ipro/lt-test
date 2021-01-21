@@ -1,0 +1,67 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  font-family: 'Roboto', sans-serif;
+}
+
+.fade-sides-dark, .fade-sides-light, .fade-sides-light-vertical {
+  overflow: hidden;
+  position: relative;
+}
+
+.fade-sides-dark:after {
+  content: "";
+  background: -webkit-linear-gradient(to right,#000 0,rgba(0, 0, 0, 0) 10%,rgba(0, 0, 0, 0) 90%,#000 100%);
+  background: -webkit-gradient(linear, to right,#000 0,rgba(0, 0, 0, 0) 10%,rgba(0, 0, 0, 0) 90%,#000 100%);
+  background: linear-gradient(to right,#000 0,rgba(0, 0, 0, 0) 10%,rgba(0, 0, 0, 0) 90%,#000 100%);
+  position: absolute;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+}
+
+.fade-sides-light:after {
+  content: "";
+  background: -webkit-linear-gradient(to right,#FFF 0,rgba(255,255,255,0.1) 10%,rgba(255,255,255,0.1) 90%,#FFF 100%);
+  background: -webkit-gradient(linear, to right,#FFF 0,rgba(255,255,255,0.1) 10%,rgba(255,255,255,0.1) 90%,#FFF 100%);
+  background: linear-gradient(to right,#FFF 0,rgba(255,255,255,0.1) 10%,rgba(255,255,255,0.1) 90%,#FFF 100%);
+  position: absolute;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+}
+
+.fade-sides-light-vertical:after {
+  content: "";
+  background: -webkit-linear-gradient(0deg ,#FFF 0,rgba(255,255,255,0.1) 10%,rgba(255,255,255,0.1) 90%,#FFF 100%);
+  background: -webkit-gradient(linear, 0deg, #FFF 0,rgba(255,255,255,0.1) 10%,rgba(255,255,255,0.1) 90%,#FFF 100%);
+  background: linear-gradient(0deg, #FFF 0,rgba(255,255,255,0.1) 10%,rgba(255,255,255,0.1) 90%,#FFF 100%);
+  position: absolute;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+}
+
+.compliance-page .compliance-body p {
+  margin-bottom: 1.5rem;
+}
+
+.highlight {
+  color: #3068F4;
+  background-image: -webkit-gradient(linear, left top, right top, color-stop(50%, transparent), color-stop(50%, rgba(48, 104, 244, 0.3)));
+  background-image: linear-gradient(to right, transparent 50%, rgba(48, 104, 244, 0.3) 50%);
+  background-origin: 0;
+  background-size: 200% 30%;
+  background-repeat: repeat-x;
+  background-position: 0 100%;
+  transition: background-position 2s;
+}
+
+.highlight.active {
+  background-position: -100% 100%;
+}

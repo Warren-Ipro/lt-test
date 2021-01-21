@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Active Campaign",
+    "type": "CRM",
+    "image": "./images/brands/activecampaign.png"
+  },
+  {
+    "name": "ArpReach",
+    "type": "ESP",
+    "image": "./images/brands/arpreach.png"
+  },
+  {
+    "name": "AWeber",
+    "type": "ESP",
+    "image": "./images/brands/aweber.png"
+  },
+  {
+    "name": "Benchmark",
+    "type": "ESP",
+    "image": "./images/brands/benchmark.png"
+  },
+  {
+    "name": "BirdSend",
+    "type": "ESP",
+    "image": "./images/brands/birdsend.png"
+  },
+  {
+    "name": "Campaign Monitor",
+    "type": "CRM",
+    "image": "./images/brands/campaignmonitor.png"
+  },
+  {
+    "name": "Campaigns",
+    "type": "CRM",
+    "image": "./images/brands/campaigns.png"
+  },
+  {
+    "name": "Constant Contact",
+    "type": "CRM",
+    "image": "./images/brands/constantcontact.png"
+  },
+  {
+    "name": "ConvertKit",
+    "type": "ESP",
+    "image": "./images/brands/convertkit.png"
+  },
+  {
+    "name": "Drip",
+    "type": "ESP",
+    "image": "./images/brands/drip.png"
+  },
+  {
+    "name": "FlutterMail",
+    "type": "ESP",
+    "image": "./images/brands/fluttermail.png"
+  },
+  {
+    "name": "FreshMail",
+    "type": "ESP",
+    "image": "./images/brands/freshmail.png"
+  },
+  {
+    "name": "GetResponse",
+    "type": "ESP",
+    "image": "./images/brands/getresponse.png"
+  },
+  {
+    "name": "GoToWebinar",
+    "type": "CRM",
+    "image": "./images/brands/gotowebinar.png"
+  },
+  {
+    "name": "HubSpot",
+    "type": "CRM",
+    "image": "./images/brands/hubspot.png"
+  },
+  {
+    "name": "iContact",
+    "type": "ESP",
+    "image": "./images/brands/icontact.png"
+  },
+  {
+    "name": "Kartra",
+    "type": "CRM",
+    "image": "./images/brands/kartra.png"
+  },
+  {
+    "name": "Keap",
+    "type": "CRM",
+    "image": "./images/brands/keap.png"
+  },
+  {
+    "name": "Klaviyo",
+    "type": "ESP",
+    "image": "./images/brands/klaviyo.png"
+  },
+  {
+    "name": "MailChimp",
+    "type": "ESP",
+    "image": "./images/brands/mailchimp.png"
+  },
+  {
+    "name": "Mailer Lite",
+    "type": "ESP",
+    "image": "./images/brands/mailerlite.png"
+  },
+  {
+    "name": "MailingBoss",
+    "type": "ESP",
+    "image": "./images/brands/mailingboss.png"
+  },
+  {
+    "name": "MarketHero",
+    "type": "ESP",
+    "image": "./images/brands/markethero.png"
+  },
+  {
+    "name": "MooSend",
+    "type": "ESP",
+    "image": "./images/brands/moosend.png"
+  },
+  {
+    "name": "Pipedrive",
+    "type": "CRM",
+    "image": "./images/brands/pipedrive.png"
+  },
+  {
+    "name": "Sailesforce",
+    "type": "CRM",
+    "image": "./images/brands/salesforce.png"
+  },
+  {
+    "name": "SendFox",
+    "type": "ESP",
+    "image": "./images/brands/sendfox.png"
+  },
+  {
+    "name": "SendGrid",
+    "type": "ESP",
+    "image": "./images/brands/sendgrid.png"
+  },
+  {
+    "name": "SendBlue",
+    "type": "ESP",
+    "image": "./images/brands/sendblue.png"
+  },
+  {
+    "name": "Sendlane",
+    "type": "ESP",
+    "image": "./images/brands/sendlane.png"
+  },
+  {
+    "name": "Sendy",
+    "type": "ESP",
+    "image": "./images/brands/sendy.png"
+  },
+  {
+    "name": "StelthSeminar",
+    "type": "CRM",
+    "image": "./images/brands/stelthseminar.png"
+  },
+  {
+    "name": "RedCappi",
+    "type": "CRM",
+    "image": "./images/brands/redcappi.png"
+  },
+  {
+    "name": "WebinarJam",
+    "type": "CRM",
+    "image": "./images/brands/webinarjam.png"
+  }
+]
